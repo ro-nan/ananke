@@ -66,4 +66,4 @@ other = "Rhannu"
 other = "Sylwadau"
 
 [footerText]
-other = "Hawlfraint © {{ .Year }} {{ .Site.Title }}. Cedwir pob hawl."
+other = "Hawlfraint © {{ .Year }} {{ .Site.Title }}.Cedwir pob hawl."
